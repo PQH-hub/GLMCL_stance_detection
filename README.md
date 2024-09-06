@@ -1,6 +1,6 @@
 ## GLMCL_Stance_Detection
 
-![](C:\Users\20171\Desktop\Number_2\第二篇工作图.drawio.png)
+![](第二篇工作图.drawio.png)
 
 ##### This is the data and code for our paper GLMCL: a model using the large language model GLM-4 and comparative learning techniques
 
