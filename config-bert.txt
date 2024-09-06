@@ -1,0 +1,8 @@
+model_select:bart-base
+bert_lr:2e-5
+fc_lr:1e-3
+batch_size:16
+total_epochs:10
+max_tok_len:200
+max_tar_len:10
+dropout:0.25
